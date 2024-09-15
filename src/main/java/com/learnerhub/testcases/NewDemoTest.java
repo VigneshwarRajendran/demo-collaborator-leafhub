@@ -6,6 +6,8 @@ public class NewDemoTest {
 		// TODO Auto-generated method stub
 			System.out.println("New Demo Test");
 			System.out.println("Elfieda's changes");
+			System.out.println("Second commit test");
+
 	}
 
 }
